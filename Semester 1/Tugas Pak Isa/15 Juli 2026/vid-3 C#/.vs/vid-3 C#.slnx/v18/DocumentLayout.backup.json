@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LIVA\\source\\repos\\vid-3 C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F98C2032-6995-3408-89E0-6ACB1822221D}|vid-3 C#\\vid-3 C#.csproj|c:\\users\\liva\\source\\repos\\vid-3 c#\\vid-3 c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98C2032-6995-3408-89E0-6ACB1822221D}|vid-3 C#\\vid-3 C#.csproj|solutionrelative:vid-3 c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LIVA\\source\\repos\\vid-3 C#\\vid-3 C#\\Program.cs",
+              "RelativeDocumentMoniker": "vid-3 C#\\Program.cs",
+              "ToolTip": "C:\\Users\\LIVA\\source\\repos\\vid-3 C#\\vid-3 C#\\Program.cs*",
+              "RelativeToolTip": "vid-3 C#\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T02:23:29.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

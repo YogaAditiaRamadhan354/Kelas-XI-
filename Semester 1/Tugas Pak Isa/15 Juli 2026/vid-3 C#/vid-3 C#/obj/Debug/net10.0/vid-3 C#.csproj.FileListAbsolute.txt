@@ -1,0 +1,28 @@
+C:\Users\LIVA\source\repos\vid-3 C#\vid-3 C#\bin\Debug\net10.0\vid-3 C#.exe
+C:\Users\LIVA\source\repos\vid-3 C#\vid-3 C#\bin\Debug\net10.0\vid-3 C#.deps.json
+C:\Users\LIVA\source\repos\vid-3 C#\vid-3 C#\bin\Debug\net10.0\vid-3 C#.runtimeconfig.json
+C:\Users\LIVA\source\repos\vid-3 C#\vid-3 C#\bin\Debug\net10.0\vid-3 C#.dll
+C:\Users\LIVA\source\repos\vid-3 C#\vid-3 C#\bin\Debug\net10.0\vid-3 C#.pdb
+C:\Users\LIVA\source\repos\vid-3 C#\vid-3 C#\obj\Debug\net10.0\vid-3 C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIVA\source\repos\vid-3 C#\vid-3 C#\obj\Debug\net10.0\vid-3 C#.AssemblyInfoInputs.cache
+C:\Users\LIVA\source\repos\vid-3 C#\vid-3 C#\obj\Debug\net10.0\vid-3 C#.AssemblyInfo.cs
+C:\Users\LIVA\source\repos\vid-3 C#\vid-3 C#\obj\Debug\net10.0\vid-3 C#.csproj.CoreCompileInputs.cache
+C:\Users\LIVA\source\repos\vid-3 C#\vid-3 C#\obj\Debug\net10.0\vid-3 C#.dll
+C:\Users\LIVA\source\repos\vid-3 C#\vid-3 C#\obj\Debug\net10.0\refint\vid-3 C#.dll
+C:\Users\LIVA\source\repos\vid-3 C#\vid-3 C#\obj\Debug\net10.0\vid-3 C#.pdb
+C:\Users\LIVA\source\repos\vid-3 C#\vid-3 C#\obj\Debug\net10.0\vid-3 C#.genruntimeconfig.cache
+C:\Users\LIVA\source\repos\vid-3 C#\vid-3 C#\obj\Debug\net10.0\ref\vid-3 C#.dll
+C:\Users\LIVA\Documents\Kelas XI\vid-3 C#\vid-3 C#\bin\Debug\net10.0\vid-3 C#.exe
+C:\Users\LIVA\Documents\Kelas XI\vid-3 C#\vid-3 C#\bin\Debug\net10.0\vid-3 C#.deps.json
+C:\Users\LIVA\Documents\Kelas XI\vid-3 C#\vid-3 C#\bin\Debug\net10.0\vid-3 C#.runtimeconfig.json
+C:\Users\LIVA\Documents\Kelas XI\vid-3 C#\vid-3 C#\bin\Debug\net10.0\vid-3 C#.dll
+C:\Users\LIVA\Documents\Kelas XI\vid-3 C#\vid-3 C#\bin\Debug\net10.0\vid-3 C#.pdb
+C:\Users\LIVA\Documents\Kelas XI\vid-3 C#\vid-3 C#\obj\Debug\net10.0\vid-3 C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIVA\Documents\Kelas XI\vid-3 C#\vid-3 C#\obj\Debug\net10.0\vid-3 C#.AssemblyInfoInputs.cache
+C:\Users\LIVA\Documents\Kelas XI\vid-3 C#\vid-3 C#\obj\Debug\net10.0\vid-3 C#.AssemblyInfo.cs
+C:\Users\LIVA\Documents\Kelas XI\vid-3 C#\vid-3 C#\obj\Debug\net10.0\vid-3 C#.csproj.CoreCompileInputs.cache
+C:\Users\LIVA\Documents\Kelas XI\vid-3 C#\vid-3 C#\obj\Debug\net10.0\vid-3 C#.dll
+C:\Users\LIVA\Documents\Kelas XI\vid-3 C#\vid-3 C#\obj\Debug\net10.0\refint\vid-3 C#.dll
+C:\Users\LIVA\Documents\Kelas XI\vid-3 C#\vid-3 C#\obj\Debug\net10.0\vid-3 C#.pdb
+C:\Users\LIVA\Documents\Kelas XI\vid-3 C#\vid-3 C#\obj\Debug\net10.0\vid-3 C#.genruntimeconfig.cache
+C:\Users\LIVA\Documents\Kelas XI\vid-3 C#\vid-3 C#\obj\Debug\net10.0\ref\vid-3 C#.dll
