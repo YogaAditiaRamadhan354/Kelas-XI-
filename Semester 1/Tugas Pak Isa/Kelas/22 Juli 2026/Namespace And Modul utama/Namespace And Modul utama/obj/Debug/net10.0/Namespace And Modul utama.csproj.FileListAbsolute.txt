@@ -1,0 +1,14 @@
+C:\Users\LIVA\source\repos\Namespace And Modul utama\Namespace And Modul utama\bin\Debug\net10.0\Namespace And Modul utama.exe
+C:\Users\LIVA\source\repos\Namespace And Modul utama\Namespace And Modul utama\bin\Debug\net10.0\Namespace And Modul utama.deps.json
+C:\Users\LIVA\source\repos\Namespace And Modul utama\Namespace And Modul utama\bin\Debug\net10.0\Namespace And Modul utama.runtimeconfig.json
+C:\Users\LIVA\source\repos\Namespace And Modul utama\Namespace And Modul utama\bin\Debug\net10.0\Namespace And Modul utama.dll
+C:\Users\LIVA\source\repos\Namespace And Modul utama\Namespace And Modul utama\bin\Debug\net10.0\Namespace And Modul utama.pdb
+C:\Users\LIVA\source\repos\Namespace And Modul utama\Namespace And Modul utama\obj\Debug\net10.0\Namespace And Modul utama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIVA\source\repos\Namespace And Modul utama\Namespace And Modul utama\obj\Debug\net10.0\Namespace And Modul utama.AssemblyInfoInputs.cache
+C:\Users\LIVA\source\repos\Namespace And Modul utama\Namespace And Modul utama\obj\Debug\net10.0\Namespace And Modul utama.AssemblyInfo.cs
+C:\Users\LIVA\source\repos\Namespace And Modul utama\Namespace And Modul utama\obj\Debug\net10.0\Namespace And Modul utama.csproj.CoreCompileInputs.cache
+C:\Users\LIVA\source\repos\Namespace And Modul utama\Namespace And Modul utama\obj\Debug\net10.0\Namespace And Modul utama.dll
+C:\Users\LIVA\source\repos\Namespace And Modul utama\Namespace And Modul utama\obj\Debug\net10.0\refint\Namespace And Modul utama.dll
+C:\Users\LIVA\source\repos\Namespace And Modul utama\Namespace And Modul utama\obj\Debug\net10.0\Namespace And Modul utama.pdb
+C:\Users\LIVA\source\repos\Namespace And Modul utama\Namespace And Modul utama\obj\Debug\net10.0\Namespace And Modul utama.genruntimeconfig.cache
+C:\Users\LIVA\source\repos\Namespace And Modul utama\Namespace And Modul utama\obj\Debug\net10.0\ref\Namespace And Modul utama.dll

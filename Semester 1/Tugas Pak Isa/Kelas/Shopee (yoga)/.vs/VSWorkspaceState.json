@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\new",
+    "\\new\\new",
+    "\\Shopee",
+    "\\Shopee\\Shopee",
+    "\\Shopee\\Shopee\\Properties",
+    "\\WindowsFormsApp1",
+    "\\WindowsFormsApp1\\WindowsFormsApp1",
+    "\\WindowsFormsApp1\\WindowsFormsApp1\\obj",
+    "\\WindowsFormsApp1\\WindowsFormsApp1\\obj\\Release"
+  ],
+  "SelectedNode": "\\Shopee\\Shopee\\Form1.cs",
+  "PreviewInSolutionExplorer": false
+}

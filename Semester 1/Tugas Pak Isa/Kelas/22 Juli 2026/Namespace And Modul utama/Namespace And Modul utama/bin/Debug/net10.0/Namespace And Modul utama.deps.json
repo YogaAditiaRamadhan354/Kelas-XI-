@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Namespace And Modul utama/1.0.0": {
+        "runtime": {
+          "Namespace And Modul utama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Namespace And Modul utama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
