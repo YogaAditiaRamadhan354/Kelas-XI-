@@ -1,0 +1,14 @@
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Modul Ajar Dasar Pemrogaman (PDF)\Modul Dasar Pemrograman\Modul Dasar Pemrograman\bin\Debug\net10.0\Modul Dasar Pemrograman.exe
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Modul Ajar Dasar Pemrogaman (PDF)\Modul Dasar Pemrograman\Modul Dasar Pemrograman\bin\Debug\net10.0\Modul Dasar Pemrograman.deps.json
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Modul Ajar Dasar Pemrogaman (PDF)\Modul Dasar Pemrograman\Modul Dasar Pemrograman\bin\Debug\net10.0\Modul Dasar Pemrograman.runtimeconfig.json
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Modul Ajar Dasar Pemrogaman (PDF)\Modul Dasar Pemrograman\Modul Dasar Pemrograman\bin\Debug\net10.0\Modul Dasar Pemrograman.dll
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Modul Ajar Dasar Pemrogaman (PDF)\Modul Dasar Pemrograman\Modul Dasar Pemrograman\bin\Debug\net10.0\Modul Dasar Pemrograman.pdb
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Modul Ajar Dasar Pemrogaman (PDF)\Modul Dasar Pemrograman\Modul Dasar Pemrograman\obj\Debug\net10.0\Modul Dasar Pemrograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Modul Ajar Dasar Pemrogaman (PDF)\Modul Dasar Pemrograman\Modul Dasar Pemrograman\obj\Debug\net10.0\Modul Dasar Pemrograman.AssemblyInfoInputs.cache
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Modul Ajar Dasar Pemrogaman (PDF)\Modul Dasar Pemrograman\Modul Dasar Pemrograman\obj\Debug\net10.0\Modul Dasar Pemrograman.AssemblyInfo.cs
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Modul Ajar Dasar Pemrogaman (PDF)\Modul Dasar Pemrograman\Modul Dasar Pemrograman\obj\Debug\net10.0\Modul Dasar Pemrograman.csproj.CoreCompileInputs.cache
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Modul Ajar Dasar Pemrogaman (PDF)\Modul Dasar Pemrograman\Modul Dasar Pemrograman\obj\Debug\net10.0\Modul Dasar Pemrograman.dll
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Modul Ajar Dasar Pemrogaman (PDF)\Modul Dasar Pemrograman\Modul Dasar Pemrograman\obj\Debug\net10.0\refint\Modul Dasar Pemrograman.dll
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Modul Ajar Dasar Pemrogaman (PDF)\Modul Dasar Pemrograman\Modul Dasar Pemrograman\obj\Debug\net10.0\Modul Dasar Pemrograman.pdb
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Modul Ajar Dasar Pemrogaman (PDF)\Modul Dasar Pemrograman\Modul Dasar Pemrograman\obj\Debug\net10.0\Modul Dasar Pemrograman.genruntimeconfig.cache
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Modul Ajar Dasar Pemrogaman (PDF)\Modul Dasar Pemrograman\Modul Dasar Pemrograman\obj\Debug\net10.0\ref\Modul Dasar Pemrograman.dll

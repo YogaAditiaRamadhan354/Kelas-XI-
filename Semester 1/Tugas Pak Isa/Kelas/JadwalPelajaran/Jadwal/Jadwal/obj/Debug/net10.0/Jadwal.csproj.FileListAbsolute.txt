@@ -1,0 +1,14 @@
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\JadwalPelajaran\Jadwal\Jadwal\bin\Debug\net10.0\Jadwal.exe
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\JadwalPelajaran\Jadwal\Jadwal\bin\Debug\net10.0\Jadwal.deps.json
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\JadwalPelajaran\Jadwal\Jadwal\bin\Debug\net10.0\Jadwal.runtimeconfig.json
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\JadwalPelajaran\Jadwal\Jadwal\bin\Debug\net10.0\Jadwal.dll
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\JadwalPelajaran\Jadwal\Jadwal\bin\Debug\net10.0\Jadwal.pdb
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\JadwalPelajaran\Jadwal\Jadwal\obj\Debug\net10.0\Jadwal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\JadwalPelajaran\Jadwal\Jadwal\obj\Debug\net10.0\Jadwal.AssemblyInfoInputs.cache
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\JadwalPelajaran\Jadwal\Jadwal\obj\Debug\net10.0\Jadwal.AssemblyInfo.cs
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\JadwalPelajaran\Jadwal\Jadwal\obj\Debug\net10.0\Jadwal.csproj.CoreCompileInputs.cache
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\JadwalPelajaran\Jadwal\Jadwal\obj\Debug\net10.0\Jadwal.dll
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\JadwalPelajaran\Jadwal\Jadwal\obj\Debug\net10.0\refint\Jadwal.dll
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\JadwalPelajaran\Jadwal\Jadwal\obj\Debug\net10.0\Jadwal.pdb
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\JadwalPelajaran\Jadwal\Jadwal\obj\Debug\net10.0\Jadwal.genruntimeconfig.cache
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\JadwalPelajaran\Jadwal\Jadwal\obj\Debug\net10.0\ref\Jadwal.dll
