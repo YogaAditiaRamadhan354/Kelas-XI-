@@ -1,0 +1,14 @@
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\PBO (Pemrograman berorientasi Objek)\PBO\PBO\bin\Debug\net10.0\PBO.exe
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\PBO (Pemrograman berorientasi Objek)\PBO\PBO\bin\Debug\net10.0\PBO.deps.json
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\PBO (Pemrograman berorientasi Objek)\PBO\PBO\bin\Debug\net10.0\PBO.runtimeconfig.json
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\PBO (Pemrograman berorientasi Objek)\PBO\PBO\bin\Debug\net10.0\PBO.dll
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\PBO (Pemrograman berorientasi Objek)\PBO\PBO\bin\Debug\net10.0\PBO.pdb
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\PBO (Pemrograman berorientasi Objek)\PBO\PBO\obj\Debug\net10.0\PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\PBO (Pemrograman berorientasi Objek)\PBO\PBO\obj\Debug\net10.0\PBO.AssemblyInfoInputs.cache
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\PBO (Pemrograman berorientasi Objek)\PBO\PBO\obj\Debug\net10.0\PBO.AssemblyInfo.cs
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\PBO (Pemrograman berorientasi Objek)\PBO\PBO\obj\Debug\net10.0\PBO.csproj.CoreCompileInputs.cache
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\PBO (Pemrograman berorientasi Objek)\PBO\PBO\obj\Debug\net10.0\PBO.dll
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\PBO (Pemrograman berorientasi Objek)\PBO\PBO\obj\Debug\net10.0\refint\PBO.dll
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\PBO (Pemrograman berorientasi Objek)\PBO\PBO\obj\Debug\net10.0\PBO.pdb
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\PBO (Pemrograman berorientasi Objek)\PBO\PBO\obj\Debug\net10.0\PBO.genruntimeconfig.cache
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\PBO (Pemrograman berorientasi Objek)\PBO\PBO\obj\Debug\net10.0\ref\PBO.dll
