@@ -1,0 +1,14 @@
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Data Siswa\Data siswa\Data siswa\bin\Debug\net10.0\Data siswa.exe
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Data Siswa\Data siswa\Data siswa\bin\Debug\net10.0\Data siswa.deps.json
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Data Siswa\Data siswa\Data siswa\bin\Debug\net10.0\Data siswa.runtimeconfig.json
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Data Siswa\Data siswa\Data siswa\bin\Debug\net10.0\Data siswa.dll
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Data Siswa\Data siswa\Data siswa\bin\Debug\net10.0\Data siswa.pdb
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Data Siswa\Data siswa\Data siswa\obj\Debug\net10.0\Data siswa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Data Siswa\Data siswa\Data siswa\obj\Debug\net10.0\Data siswa.AssemblyInfoInputs.cache
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Data Siswa\Data siswa\Data siswa\obj\Debug\net10.0\Data siswa.AssemblyInfo.cs
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Data Siswa\Data siswa\Data siswa\obj\Debug\net10.0\Data siswa.csproj.CoreCompileInputs.cache
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Data Siswa\Data siswa\Data siswa\obj\Debug\net10.0\Data siswa.dll
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Data Siswa\Data siswa\Data siswa\obj\Debug\net10.0\refint\Data siswa.dll
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Data Siswa\Data siswa\Data siswa\obj\Debug\net10.0\Data siswa.pdb
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Data Siswa\Data siswa\Data siswa\obj\Debug\net10.0\Data siswa.genruntimeconfig.cache
+C:\Users\LIVA\Documents\Kelas-XI Yoga\Semester 1\Tugas Pak Isa\Kelas\Data Siswa\Data siswa\Data siswa\obj\Debug\net10.0\ref\Data siswa.dll
